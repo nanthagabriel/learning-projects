@@ -9,6 +9,7 @@ print(f"Your second number is: {num2}")
 
 # Loop until valid corresponding number is picked.
 while True: 
+    
     # Display the choice of operations with corresponding numbers.
     print("\nChoose an operation:")
     print("1. Add (+)")
@@ -33,13 +34,15 @@ while True:
         print(f"\nThe result of {num1} * {num2} is: {result}")
         break  
     elif operation == '4':
+       
         # Error if user picks '0' as 'num2' for a division.
         if num2 == 0:
             print("\nERROR, You can't divide by zero.")
         else:
             result = num1 / num2
             print(f"\nThe result of {num1} / {num2} is: {result}")
-        break  
+        break 
+
+    # If user input is any other choice besides the given numbers corresponding with the operators.
     else:
-        # If user input is any other choice besides the given numbers corresponding with the operators.
         print("\nInvalid choice. Please choose a valid operation.")
