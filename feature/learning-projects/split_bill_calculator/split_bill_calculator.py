@@ -1,4 +1,4 @@
-#1. Split Bill Calculator -> a calculator that splits the total bill inclusive of tax.
+# Split Bill Calculator -> a calculator that splits the total bill inclusive of tax.
 
 # User input of nett bill.
 bill = float(input("How much is the bill?: "))
