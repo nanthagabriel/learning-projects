@@ -1,4 +1,4 @@
-# Math Wiz -> Answer randomly generated basic arithmetic equations.
+# Math Wiz -> Solve randomly generated basic arithmetic equations.
 
 import random
 
