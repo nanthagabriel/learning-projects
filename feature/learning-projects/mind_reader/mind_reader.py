@@ -27,17 +27,15 @@ while guess != secret_number and num_of_attempts < max_num_of_attempts:
     # Plus '1' every time the user fails an attempt.
     num_of_attempts += 1
 
-    # Reveal of the number of attempts left and receive user input for another guess.
+    # Show of the number of attempts taken and the user input for another guess.
     if num_of_attempts < max_num_of_attempts:
-        if num_of_attempts < max_num_of_attempts:
-            remaining_attempts = max_num_of_attempts - num_of_attempts  
-            guess = int(input(f"\nDon't give up! .. you have {remaining_attempts} left .. C'mon now make another guess! : "))
+         guess = int(input(f"\nDon't give up! .. We're at {num_of_attempts} / {max_num_of_attempts} attempts .. C'mon now make another guess! : "))
     
     # After '10' failed attempts, the secret number is revealed.
     else:
-        print(f"Oh well, i guess you're not a mind reader, the number i was thinking of was {secret_number}. ")
-        break        
-        
-# Congratulate and reveal to the user the number of attempts taken to narrow down to the answer. 
+         print(f"Oh well, i guess you're not a mind reader, the number i was thinking of was {secret_number}. ")
+         break
+
+# Congratulate the user and reveal how attempts was taken to narrow down to the answer. 
 if guess == secret_number:
-    print(f"Boomz!, You're right! it's {secret_number}. Not bad! you guessed it in {num_of_attempts} attempts!")
+    print(f"Boomz!, You're right! it's {secret_number}. Not bad!, you guessed it in {num_of_attempts} attempts!")
