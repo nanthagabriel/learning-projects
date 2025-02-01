@@ -2,7 +2,7 @@
 
 Welcome to my learning journey. In this repository, you'll find the personal projects, coding challenges and exercises i'm working on as I build my skills in Python, machine learning and algorithms.
 
-I’m documenting my journey as I develop hands-on projects, tackle coding challenges on LeetCode and Exercism as i dive deeper into topics like data analysis, machine learning and AI.
+I’m documenting my journey as i develop hands-on projects. Tackle coding challenges on LeetCode and Exercism as i dive deeper into topics like data analysis, machine learning and AI.
 
 ---
 
@@ -18,9 +18,9 @@ I’m documenting my journey as I develop hands-on projects, tackle coding chall
 
 This repository is organized into different branches to reflect my learning focus:
 
-- learning-projects: Branch for Python mini-projects apps.
-- leetcode: Branch for LeetCode coding challenges (Easy, Medium, Hard).
-- Exercism: Branch for Exercism coding exercises in Python and algorithms.
+- feature/learning_projects: Branch for Python mini-projects apps.
+- feature/leetcode-practice: Branch for LeetCode coding challenges.
+- feature/exercism-practice: Branch for Exercism coding exercises in Python and algorithms.
 
 ---
 
@@ -55,7 +55,7 @@ September - October: Capstone Projects & ML
 
 📈 My Project Milestones
 
-- [ ] Solve 100+ LeetCode problems across difficulty levels.
+- [ ] Complete at least 100 LeetCode problems across varying difficulty levels
 - [ ] Finish building 10 personal projects in Python.
 - [ ] Build at least 2 machine learning models by the end of the year.
 - [ ] Prepare my portfolio and start job applications in data science.
