@@ -1,4 +1,4 @@
-# 🧑🏾‍💻 Learning Projects
+# Learning Projects
 Welcome to my learning-projects branch!
 This is where I track my journey as I self-teach Python, Machine Learning, Algorithms and more.
 As I build my skills, I document my progress through projects, coding challenge and exercises.
