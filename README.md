@@ -8,9 +8,9 @@ I’m documenting my journey as i develop hands-on projects. Tackle coding chall
 
 🧑🏾‍💻 Current Focus
 
-- Learning: Python, Data Science, Machine Learning, Algorithms
-- Challenges: LeetCode (Easy, Medium, Hard), Exercism (Python & Algorithms)
-- Projects: Building Python mini-projects, analyzing datasets, applying machine learning models
+- Learning: Python, Data Science, Machine Learning, Algorithms.
+- Challenges: LeetCode (Easy, Medium, Hard), Exercism (Python & Algorithms).
+- Projects: Building Python mini-projects, analyzing datasets, applying machine learning models.
 
 ---
 
@@ -58,14 +58,14 @@ September - October: Capstone Projects & ML
  - [ ] Complete at least 100 LeetCode problems across varying difficulty levels.
  - [ ] Finish building 10 personal projects in Python.
  - [ ] Build at least 2 machine learning models by the end of the year.
- - [ ] Prepare my portfolio and start job applications in data science.
  - [ ] Complete the CS50P, CS50X, and CS50AI courses.
  - [ ] Contribute to at least 3 open-source data science or machine learning repositories.
  - [ ] Create and publish a personal portfolio website with at least 3 data science projects.
  - [ ] Commit regularly to GitHub every week, documenting progress and challenges.
  - [ ] Participate in at least 2 Kaggle competitions or ML challenges.
- - [ ] Write at least 5 technical blog posts on topics like Python, machine learning, or data science.
+ - [ ] Write at least 5 technical blog posts on topics like Python, machine learning or data science.
  - [ ] Network with 10 data science professionals and collaborate on at least 1 project.
+ - [ ] Prepare my portfolio and start job applications for junior positions in data science.
 
 ---
 
