@@ -65,7 +65,7 @@ September - October: Capstone Projects & ML
  - [ ] Participate in at least 2 Kaggle competitions or ML challenges.
  - [ ] Write at least 5 technical blog posts on topics like Python, machine learning or data science.
  - [ ] Network with 10 data science professionals and collaborate on at least 1 project.
- - [ ] Prepare my portfolio and start job applications for junior positions in data science.
+ - [ ] Prepare my portfolio and start job applications for entry level positions in data science.
 
 ---
 
