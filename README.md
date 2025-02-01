@@ -18,9 +18,9 @@ I’m documenting my journey as i develop hands-on projects. Tackle coding chall
 
 This repository is organized into different branches to reflect my learning focus:
 
-- feature/learning_projects: Branch for Python mini-projects apps.
-- feature/leetcode-practice: Branch for LeetCode coding challenges.
-- feature/exercism-practice: Branch for Exercism coding exercises in Python and algorithms.
+- [x] feature/learning_projects: Branch for Python mini-projects apps.
+- [ ] feature/leetcode-practice: Branch for LeetCode coding challenges.
+- [ ] feature/exercism-practice: Branch for Exercism coding exercises in Python and algorithms.
 
 ---
 
