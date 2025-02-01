@@ -18,7 +18,7 @@ I’m documenting my journey as I develop hands-on projects, tackle coding chall
 
 This repository is organized into different branches to reflect my learning focus:
 
-- Personal projects: Branch for Python mini-projects apps).
+- learning-projects: Branch for Python mini-projects apps.
 - leetcode: Branch for LeetCode coding challenges (Easy, Medium, Hard).
 - Exercism: Branch for Exercism coding exercises in Python and algorithms.
 
