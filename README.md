@@ -2,62 +2,64 @@
 
 ---
 
-📚 Project Organization
-- This repository is an index into different branches organized to reflect my learning focus:
+### 📚 Project Organization
 
-- [x] feature/learning_projects: Branch for Python mini-projects.
-- [ ] feature/leetcode-practice: Branch for LeetCode coding challenges. (Coming Soon)
-- [ ] feature/exercism-practice: Branch for Exercism coding exercises in Python and algorithms. (Coming Soon)
-- [ ] feature/cs50p: Branch for my projects and exercises from the CS50P course. (Coming Soon)
+This repository serves as an index of various branches aligned with my learning goals. Here's a breakdown:
 
----
-
-🧑🏾‍💻 Current Focus
-
-- Learning: Python, Data Science, Machine Learning, Algorithms.
-- Challenges: LeetCode (Easy, Medium, Hard), Exercism (Python & Algorithms).
-- Projects: Building Python mini-projects, analyzing datasets, applying machine learning models.
+- [x] **feature/learning_projects**: Branch for Python mini-projects.  
+- [ ] **feature/leetcode-practice**: Branch for LeetCode coding challenges. (Coming Soon)  
+- [ ] **feature/exercism-practice**: Branch for Exercism coding exercises in Python and algorithms. (Coming Soon)  
+- [ ] **feature/cs50p**: Branch for projects and exercises from the CS50P course. (Coming Soon)
 
 ---
 
-🛠 What's Next? 
-- As I continue my learning journey, this branch will expand to include new areas of focus, such as:
+### 🧑🏾‍💻 Current Focus
 
-- Data Structures & Algorithms
-- Machine Learning
-- Data Science Projects
-- Deep Learning
+- **Learning**: Python, Data Science, Machine Learning, Algorithms.  
+- **Challenges**: LeetCode (Easy, Medium, Hard), Exercism (Python & Algorithms).  
+- **Projects**: Building Python mini-projects, analyzing datasets, applying machine learning models.
+
+---
+
+### 🛠 What's Next?
+
+As I continue to grow, this repository will expand to include new areas of focus, such as:
+
+- Data Structures & Algorithms  
+- Machine Learning  
+- Data Science Projects  
+- Deep Learning  
 - Python-based Challenges
 
 ---
 
-📅 Regular Updates 
-- I will be updating this branch regularly, adding new projects, improving old ones and refining my understanding of core concepts. The focus will shift throughout the year, depending on the skills I'm developing.
+### 📅 Regular Updates
+
+I’ll be updating this repository regularly with new projects, improving older ones and refining my understanding of core concepts. The focus will evolve throughout the year based on my learning path.
 
 ---
 
-📈 My Project Milestones
+### 📈 Project Milestones
 
- - [ ] Complete at least 100 LeetCode problems across varying difficulty levels.
- - [ ] Finish building 10 personal projects in Python.
- - [ ] Build at least 2 machine learning models by the end of the year.
- - [ ] Complete the CS50P, CS50X, and CS50AI courses.
- - [ ] Contribute to at least 3 open-source data science or machine learning repositories.
- - [ ] Create and publish a personal portfolio website with at least 3 data science projects.
- - [ ] Commit regularly to GitHub every week, documenting progress and challenges.
- - [ ] Participate in at least 2 Kaggle competitions or ML challenges.
- - [ ] Write at least 5 technical blog posts on topics like Python, machine learning or data science.
- - [ ] Network with 10 data science professionals and collaborate on at least 1 project.
- - [ ] Prepare my portfolio and start job applications for entry level positions in data science.
-
----
-
-💬 Feedback & Collaboration
-
-I’m open to feedback and mentorship! 
-If you have suggestions or would like to collaborate, please feel free to reach out. 
-I am looking forward to learn from you.
+- [ ] Complete 100 LeetCode problems across varying difficulty levels.  
+- [ ] Finish building 10 Python mini-projects.  
+- [ ] Build at least 2 machine learning models by year-end.  
+- [ ] Complete the CS50P, CS50X, and CS50AI courses.  
+- [ ] Contribute to 3 open-source data science or machine learning projects.  
+- [ ] Launch a personal portfolio website with 3 data science projects.  
+- [ ] Commit to GitHub every week, documenting progress and challenges.  
+- [ ] Participate in 2 Kaggle competitions or ML challenges.  
+- [ ] Publish 5 technical blog posts on Python, machine learning, or data science.  
+- [ ] Network with 10 data science professionals and collaborate on at least 1 project.  
+- [ ] Prepare a portfolio and start applying for entry-level data science roles.
 
 ---
 
-Thank you for visiting my learning journey! Let’s learn, grow and build something great together. 
+### 💬 Feedback & Collaboration
+
+I’m always open to feedback, advice and collaboration opportunities!  
+If you have any suggestions or want to collaborate, don’t hesitate to reach out. Let’s learn and grow together!
+
+---
+
+Thank you for visiting my learning journey. I’m excited to share my progress, tackle challenges, and build something great!
