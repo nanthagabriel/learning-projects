@@ -16,18 +16,6 @@ This repository will primarily focus on the following areas:
 
 ---
 
-### 🧠 `leetcode_projects` 
-- This folder will contain my solutions to coding challenges from LeetCode.
-  I’ll focus on tackling algorithms, data structures and enhancing problem-solving skills.
-
----
-
-### 🧩 `exercism_projects` 
-- This folder will contain my solutions to challenges from Exercism.
-  The focus will be on Python and algorithms.
-
----
-
 ### 📚 `cs50p_projects` 
 - This folder will contain all my projects and exercises from the CS50P course.
   I’ll share project work and solutions to the course assignments.
