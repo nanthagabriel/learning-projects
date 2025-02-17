@@ -1,6 +1,6 @@
 # Learning Projects
 
-Welcome learning-projects!  
+Welcome to learning-projects!  
 As the year progresses, I’ll continue to add new projects, challenges and learning materials to expand my knowledge and portfolio.
 
 ---
