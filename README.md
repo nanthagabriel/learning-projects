@@ -22,6 +22,11 @@ This repository will primarily focus on the following areas:
 
 ---
 
+### 🤖 `freecodecamp_exercises`
+- This folder will contain my exercises and projects from freecodecamp's curriculums.
+
+---
+
 ### 📅 Regular Updates
 - I will be updating this repository regularly, adding new projects, improving old ones and refining my           understanding of core concepts.  
   The focus will evolve throughout the year, depending on the skills I'm developing.
