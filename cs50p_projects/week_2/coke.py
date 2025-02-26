@@ -19,4 +19,4 @@ while coca_cola > 0:
 change = abs(coca_cola)
 
 # Change to be returned
-print("Change Owed:", change)
+print("Change Owed: ", change)
