@@ -1,9 +1,7 @@
-# DONT GIVE UP NANTHA -> A way to keep track of my study progress.
+# I'm currently working on this 
+required_foundations =[" CS106A", " CS50P", " Python Specialization", " Algebra"]
 
-# I have to finish this first
-required_foundations =[" CS50P", " Python Specialization", " Algebra"]
-
-# Ok this is the setup
+# Check requirements and completions
 def check_foundations(completed_foundations):
     missing_foundations = set(required_foundations) - set(completed_foundations)
 
@@ -14,9 +12,9 @@ def check_foundations(completed_foundations):
     else:
         print("All done! Proceed to Data Science, Good luck Gabriel!")
 
-# Pace yourself man
+# Pace yourself man, one at a time
 def main(): 
-    completed_foundations = [] 
+    completed_foundations = [" CS106A"] 
     check_foundations(completed_foundations)
 
 # Execute phase 2
