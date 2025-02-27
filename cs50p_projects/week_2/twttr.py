@@ -4,7 +4,7 @@ answer = input("Input: ")
 # Output
 print("Output: ", end="")
 
-# Loop each letter from input
+# Loop each letter from user input
 for letter in answer:
 
     # Check if input has vowels regardless upper or lowercase
