@@ -19,17 +19,17 @@
 
 ---
 
-### 'Updates'
+### Updates
 - I will be updating this repository regularly, adding new projects, improving old ones.
 ---
 
-### 'Feedback & Collaboration'
+### Feedback & Collaboration
 - Open to feedback, suggestions and collaboration opportunities!
 - Feel free to reach out!
 
 ---
 
-### ✉️ 'Contact'
+### ✉️ Contact
 Email: [nanthagabriel@gmail.com](mailto:nanthagabriel@gmail.com)  
 Feel free to connect!
 
