@@ -2,7 +2,9 @@
 # RATIO AND PROPORTIONS
 # n1/d1 = n2/d2
 
-# Use a zero in the place of an unknown value
+# Use a zero in the place of an unknown value, 
+# Current values are set to an Exchange rate source,
+# SGD to USD 
 n1 = 1
 d1 = 1.6
 n2 = 0
